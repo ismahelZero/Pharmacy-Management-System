@@ -1,0 +1,60 @@
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\bin\Debug\Pharmacy-Management-System.exe.config
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\bin\Debug\Pharmacy-Management-System.exe
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\bin\Debug\Pharmacy-Management-System.pdb
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy-Management-System.csproj.AssemblyReference.cache
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy-Management-System.csproj.SuggestedBindingRedirects.cache
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.Form1.resources
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy-Management-System.csproj.GenerateResource.cache
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy-Management-System.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy-Management-System.exe
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy-Management-System.pdb
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\bin\Debug\Guna.UI.dll
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy-Management-System.csproj.CopyComplete
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.Admin.resources
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.AdminUC.UC_Dashboard.resources
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.AdminUC.UC_AddUser.resources
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.AdminUC.UC_ViewUser.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy-Management-System.csproj.AssemblyReference.cache
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy-Management-System.csproj.SuggestedBindingRedirects.cache
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.Admin.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.AdminUC.UC_AddUser.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.AdminUC.UC_Dashboard.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.AdminUC.UC_ViewUser.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.Form1.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy-Management-System.csproj.GenerateResource.cache
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy-Management-System.csproj.CoreCompileInputs.cache
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy-Management-System.csproj.CopyComplete
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\bin\Debug\Guna.UI2.dll
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.AdminUC.US_profile.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.Pharmacist.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.PharmacistUC.UC_P_dashboard.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.PharmacistUC.UC_P_AddMedicine.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.PharmacistUC.UC_P_ViewMedicine.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.loading.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.AdminUC.UC_AddSuplier.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.AdminUC.UC_Viewsupplier.resources
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.AdminUC.UC_AddSuplier.resources
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.AdminUC.UC_Viewsupplier.resources
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.AdminUC.US_profile.resources
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.loading.resources
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.Pharmacist.resources
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.PharmacistUC.UC_P_AddMedicine.resources
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.PharmacistUC.UC_P_dashboard.resources
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.PharmacistUC.UC_P_ViewMedicine.resources
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.PharmacistUC.UC_P_UpdateMedicine.resources
+C:\Users\MUHAMMED\source\repos\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.PharmacistUC.UC_P_MedicineCheck.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.PharmacistUC.UC_P_MedicineCheck.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.PharmacistUC.UC_P_UpdateMedicine.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy_Management_System.PharmacistUC.UC_P_SellMedicin.resources
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\bin\Debug\Pharmacy Management System.exe.config
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\bin\Debug\Pharmacy Management System.exe.manifest
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\bin\Debug\Pharmacy Management System.application
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\bin\Debug\Pharmacy Management System.exe
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\bin\Debug\Pharmacy Management System.pdb
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy Management System.TrustInfo.xml
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy Management System.exe.manifest
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy Management System.application
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy Management System.exe
+C:\Users\aaa\OneDrive\Desktop\Pharmacy-Management-System\Pharmacy-Management-System\obj\Debug\Pharmacy Management System.pdb
